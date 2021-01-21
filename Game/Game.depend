@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1611065581 source:c:\users\lenovo\downloads\game\main.cpp
+	"GameWorld.h"
+	<cctype>
+
+1611065560 source:c:\users\lenovo\downloads\game\gameworld.cpp
+	"GameWorld.h"
+
+1611065462 c:\users\lenovo\downloads\game\gameworld.h
+	"helperFunctions.h"
+	<cstdlib>
+	<cassert>
+	<iostream>
+	<ctime>
+
+1610955226 c:\users\lenovo\downloads\game\helperfunctions.h
+	"GameWorld.h"
+
+1610955226 source:c:\users\lenovo\downloads\game\helperfunctions.cpp
+	"helperFunctions.h"
+
